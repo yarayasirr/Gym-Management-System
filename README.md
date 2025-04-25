@@ -1,12 +1,12 @@
 # Gym Management System
 
-This is a C++ Gym Management System developed using Visual Studio 2022. It allows administrators to manage clients, subscriptions, and memberships efficiently from a console-based interface.
+This is a C# Gym Management System developed using Visual Studio 2022. It allows administrators to manage clients, subscriptions, and memberships efficiently from a console-based interface.
 
 The project follows **Object-Oriented Programming (OOP)** principles for better structure, maintainability, and scalability.
 
 ## Tools & Technologies
 - Visual Studio 2022
-- C++
+- C#
 - Git (via Visual Studio's Git integration)
 - GitHub
 
