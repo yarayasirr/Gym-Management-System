@@ -19,7 +19,7 @@ The project follows **Object-Oriented Programming (OOP)** principles for better 
 ## OOP Concepts Used
 - **Classes & Objects** for modeling members and memberships
 - **Encapsulation** to hide internal member data
-- **Inheritance** (if applicable)
-- **Polymorphism** (if applicable)
+- **Inheritance** 
+- **Polymorphism** 
 - **Constructor/Destructor** logic for object lifecycle management
 
